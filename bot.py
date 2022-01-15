@@ -29,6 +29,8 @@ async def status_task():
         "Browsing self created memes",
         "Under the weather",
         "Running the interpreter",
+        "Acquiring $82447 from NSF",
+        "Bringing software to life",
     ]
     pingCount = 0
     successPings = 0
